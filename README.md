@@ -73,12 +73,11 @@ my development skills.
 <p align="center">
   <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=amiruddinjoy100&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
-## 📊 GitHub Stats  
+<h3>📊 GitHub Contributions</h3>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=amiruddinjoy100&theme=tokyonight" alt="GitHub Streak Stats" />
+  <img src="https://raw.githubusercontent.com/amiruddinjoy100/amiruddinjoy100/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
-
 
 ## 🌐 Connect With Me
 
