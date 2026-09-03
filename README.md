@@ -71,8 +71,10 @@ my development skills.
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Amiruddinjoy100&theme=tokyonight" alt="GitHub Streak" />
-</p>
+   <img
+    src="https://github-readme-stats.vercel.app/api?username=Amiruddinjoy100&show_icons=true&theme=tokyonight&cache_seconds=86400"
+    alt="GitHub Stats"
+  />
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amiruddinjoy100&layout=compact&theme=tokyonight" alt="Top Languages" />
