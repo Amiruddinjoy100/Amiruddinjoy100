@@ -31,25 +31,25 @@ my development skills.
 ### Languages
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,js,ts" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,js,ts" />
 </p>
 
 ### Frontend
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,react,nextjs" />
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,react,nextjs" />
 </p>
 
 ### Backend & Database
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mysql,mongodb" />
+  <img src="https://skillicons.dev/icons?i=nodejs,mongodb" />
 </p>
 
 ### Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
 </p>
 
 ---
