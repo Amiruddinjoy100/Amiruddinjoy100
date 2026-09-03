@@ -1,28 +1,94 @@
 <img width="1983" height="793" alt="ChatGPT Image Sep 3, 2026, 02_23_46 PM" src="https://github.com/user-attachments/assets/fac4cc0f-824e-48af-9202-d81573594432" />
 
-<h1 align="center">Hi 👋, I'm Amir Uddin Joy</h1>
-<h3 align="center">Learning, building, and growing on my journey to becoming a Full-Stack Developer.</h3>
+```md
+# Hi, I'm Amir Uddin Joy 👋
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=amiruddinjoy100&label=Profile%20views&color=0e75b6&style=flat" alt="amiruddinjoy100" /> </p>
+### Full Stack Developer | CSE Student
 
-- 🌱 I’m currently learning **Full-Stack Development**
+I'm a Computer Science and Engineering student passionate about building web applications and learning modern technologies. I enjoy turning ideas into functional, user-friendly applications and continuously improving my development skills.
 
-- 📫 How to reach me **amiruddinjoy@gmail.com**
+---
 
-## 🙋‍♂️ About Me
+## 👨‍💻 About Me
 
-* 👋 Hi, I'm **@Amiruddinjoy100**
-* 🌱 I'm currently learning **MERN Stack Development**
-* 💻 Exploring modern **frontend** and **backend** technologies
+- 🎓 Computer Science & Engineering student
+- 💻 Interested in Full Stack Web Development
+- 🌱 Currently exploring **React.js, Next.js and Node.js**
+- 🚀 Working on personal and academic web development projects
+- 📚 Continuously learning new technologies and improving my problem-solving skills
+- 🎯 Goal: Become a skilled Full Stack Developer
 
-<h3 align="left">Connect with me:</h3>
+---
+
+## 🛠️ Skills & Technologies
+
+### Languages
+
 <p align="left">
-<a href="https://fb.com/amir uddin joy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="amir uddin joy" height="30" width="40" /></a>
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,js,ts" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+### Frontend
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amiruddinjoy100&show_icons=true&locale=en" alt="amiruddinjoy100" /></p>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,react,nextjs" />
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amiruddinjoy100&" alt="amiruddinjoy100" /></p>
+### Backend & Database
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mysql,mongodb" />
+</p>
+
+### Tools
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
+</p>
+
+---
+
+## 🚀 Currently Exploring
+
+- 🔹 React.js
+- 🔹 Next.js
+- 🔹 TypeScript
+- 🔹 Node.js & Express.js
+- 🔹 Full Stack Web Development
+
+---
+
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Amiruddinjoy100&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Amiruddinjoy100&theme=tokyonight" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amiruddinjoy100&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="left">
+  <a href="YOUR_LINKEDIN_PROFILE_URL">
+    <img src="https://www.linkedin.com/in/amir-uddin-joy-9394b4203/" />
+  </a>
+
+  <a href="https://github.com/Amiruddinjoy100">
+    <img src="https://skillicons.dev/icons?i=github" />
+  </a>
+</p>
+
+📧 **Email:** amiruddinjoy100@gmail.com
+
+
+
+
+```
