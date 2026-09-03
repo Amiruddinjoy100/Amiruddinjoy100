@@ -73,16 +73,16 @@ my development skills.
 <p align="center">
   <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=amiruddinjoy100&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
-<h3 align="center">📌 Pinned Projects</h3>
+## 📊 GitHub Stats  
 
-<p align="center">
-  <a href="https://github.com/amiruddinjoy100/tic-tac-toe">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=amiruddinjoy100&repo=tic-tac-toe&theme=tokyonight" alt="Tic Tac Toe Repo" />
-  </a>
-  <a href="https://github.com/amiruddinjoy100/Amir_Assignment_1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=amiruddinjoy100&repo=Amir_Assignment_1&theme=tokyonight" alt="Assignment 1 Repo" />
-  </a>
-</p>
+| GitHub Stats | Most Used Languages |
+| :---: | :---: |
+| ![GitHub stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=default) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=default) |
+
+---
+
+![Profile views](https://komarev.com/ghpvc/?username=your-github-username&style=flat-square)
+
 
 ## 🌐 Connect With Me
 
