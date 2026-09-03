@@ -9,6 +9,12 @@
 
 - 📫 How to reach me **amiruddinjoy@gmail.com**
 
+## 🙋‍♂️ About Me
+
+* 👋 Hi, I'm **@Amiruddinjoy100**
+* 🌱 I'm currently learning **MERN Stack Development**
+* 💻 Exploring modern **frontend** and **backend** technologies
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://fb.com/amir uddin joy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="amir uddin joy" height="30" width="40" /></a>
