@@ -1,4 +1,4 @@
-<img width="1000" height="368" alt="banner" src="https://github.com/user-attachments/assets/10fd0886-9038-4e16-a6b2-2f82e5438815" />
+<img width="800" height="368" alt="banner" src="https://github.com/user-attachments/assets/10fd0886-9038-4e16-a6b2-2f82e5438815" />
 <h1 align="center">Hi 👋, I'm Amir Uddin Joy</h1>
 <h3 align="center">Learning, building, and growing on my journey to becoming a Full-Stack Developer.</h3>
 
