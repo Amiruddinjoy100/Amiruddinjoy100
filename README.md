@@ -75,13 +75,9 @@ my development skills.
 </p>
 ## 📊 GitHub Stats  
 
-| GitHub Stats | Most Used Languages |
-| :---: | :---: |
-| ![GitHub stats](https://github-readme-stats.vercel.app/api?username=your-github-amiruddinjoy100&show_icons=true&theme=default) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=default) |
-
----
-
-![Profile views](https://komarev.com/ghpvc/?username=your-github-username&style=flat-square)
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=amiruddinjoy100&theme=tokyonight" alt="GitHub Streak Stats" />
+</p>
 
 
 ## 🌐 Connect With Me
