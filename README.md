@@ -73,11 +73,8 @@ my development skills.
 <p align="center">
   <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=amiruddinjoy100&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
-<h3 align="center">📊 GitHub Contributions</h3>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=amiruddinjoy100&theme=tokyonight" alt="GitHub Contributions" />
-</p>
+
 
 ## 🌐 Connect With Me
 
