@@ -1,4 +1,5 @@
-<img width="800" height="168" alt="banner" src="https://github.com/user-attachments/assets/10fd0886-9038-4e16-a6b2-2f82e5438815" />
+<img width="1983" height="793" alt="ChatGPT Image Sep 3, 2026, 02_23_46 PM" src="https://github.com/user-attachments/assets/fac4cc0f-824e-48af-9202-d81573594432" />
+
 <h1 align="center">Hi 👋, I'm Amir Uddin Joy</h1>
 <h3 align="center">Learning, building, and growing on my journey to becoming a Full-Stack Developer.</h3>
 
