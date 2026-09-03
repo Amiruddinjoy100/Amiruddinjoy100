@@ -1,6 +1,5 @@
 <img width="1983" height="793" alt="ChatGPT Image Sep 3, 2026, 02_23_46 PM" src="https://github.com/user-attachments/assets/fac4cc0f-824e-48af-9202-d81573594432" />
 
-```md
 # Hi, I'm Amir Uddin Joy 👋
 
 ### Full Stack Developer | CSE Student
@@ -9,7 +8,7 @@ I'm a Computer Science and Engineering student passionate about building web app
 
 ---
 
-## 👨‍💻 About Me
+## 👨💻 About Me
 
 - 🎓 Computer Science & Engineering student
 - 💻 Interested in Full Stack Web Development
@@ -91,4 +90,3 @@ I'm a Computer Science and Engineering student passionate about building web app
 
 
 
-```
