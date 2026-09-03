@@ -31,7 +31,7 @@ my development skills.
 ### Languages
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=c,cpp,js,ts" />
+  <img src="https://skillicons.dev/icons?i=js,ts" />
 </p>
 
 ### Frontend
@@ -83,9 +83,9 @@ my development skills.
 ## 🌐 Connect With Me
 
 <p align="left">
-  <a href="YOUR_LINKEDIN_PROFILE_URL">
-    <img src="https://www.linkedin.com/in/amir-uddin-joy-9394b4203/" />
-  </a>
+<a href="https://www.linkedin.com/in/amir-uddin-joy-9394b4203/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
 
   <a href="https://github.com/Amiruddinjoy100">
     <img src="https://skillicons.dev/icons?i=github" />
