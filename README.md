@@ -6,13 +6,6 @@
 
 ### Full Stack Developer | CSE Student
 
-<p>
-I'm a Computer Science and Engineering student passionate about building
-web applications and learning modern technologies. I enjoy turning ideas
-into functional, user-friendly applications and continuously improving
-my development skills.
-</p>
-
 </div>
 
 ## 👨💻 About Me
